@@ -1,7 +1,9 @@
+package w3;
+
 import java.util.Scanner;
 import java.util.Stack;
 
-public class QueueUsingTwoStacks {
+class QueueUsingTwoStacks {
     private Stack<Integer> stack1 = new Stack<>();
     private Stack<Integer> stack2 = new Stack<>();
 

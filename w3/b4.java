@@ -1,7 +1,9 @@
+package w3;
+
 import java.util.Scanner;
 import java.util.Stack;
 
-public class SimpleTextEditor {
+class SimpleTextEditor {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         if (!sc.hasNextInt()) return;

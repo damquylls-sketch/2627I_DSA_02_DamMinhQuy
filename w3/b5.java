@@ -1,6 +1,8 @@
+package w3;
+
 import java.util.Scanner;
 
-public class EqualStacks {
+class EqualStacks {
     public static int equalStacks(int[] h1, int[] h2, int[] h3) {
         int sum1 = 0, sum2 = 0, sum3 = 0;
 
