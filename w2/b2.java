@@ -1,4 +1,6 @@
+package w2;
 public class b2 {
+
     public static int count(int[] a) {
         int N = a.length;
         int cnt = 0;
@@ -14,3 +16,4 @@ public class b2 {
         return cnt;
     }
 }
+

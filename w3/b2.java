@@ -3,7 +3,7 @@ package w3;
 import java.util.Scanner;
 import java.util.Stack;
 
-class BalancedBrackets {
+class b2 {
     public static String isBalanced(String s) {
         Stack<Character> stack = new Stack<>();
         for (char ch : s.toCharArray()) {
