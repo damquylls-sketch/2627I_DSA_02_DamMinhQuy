@@ -1,4 +1,6 @@
+package w4;
 import java.util.Scanner;
+
 
 class InsertionSortPart1 { // Không dùng chữ public để tránh lỗi sai tên file
 
